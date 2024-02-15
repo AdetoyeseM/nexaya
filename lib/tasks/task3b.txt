@@ -1,0 +1,4 @@
+b. Scalability of the design was ensured through the following practices:
+
+- I designed the application with a modular architecture, breaking down the functionality into independent modules such as the textFields, buttons etc
+- I optimized critical sections of the code for performance, ensuring that the application can handle increased data loads effectively

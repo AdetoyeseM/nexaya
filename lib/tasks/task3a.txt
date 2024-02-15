@@ -1,0 +1,7 @@
+
+a. Ensuring readability of my code was paramount in the following ways:
+
+
+ - My naming conventions were consistent all through the codebase.
+ - I followed SOLID principles to write clean, readable, and maintainable code. Each class and function adheres to single responsibility principle, ensuring clarity of purpose.
+ - I modularized the code such that each component focuses on a single task, enhancing readability by reducing complexity.

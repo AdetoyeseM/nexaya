@@ -1,0 +1,5 @@
+C. The standard architecture used in the project is MVVM (Model-View-ViewModel), supplemented by ValueListenable for state management.
+
+- MVVM separates the presentation logic from the business logic and UI, promoting a cleaner and more maintainable codebase.
+- MVVM is a widely adopted architecture in the Flutter community, providing ample resources, libraries, and community support for development and maintenance.
+- MVVM promotes scalability by organizing code into distinct layers, making it easier to add new features
